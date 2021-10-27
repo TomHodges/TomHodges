@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @TomHodges
+- 👀 I’m interested in pretty much everything, however my main interests are Python and Assembly
