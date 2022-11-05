@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @TomHodges
-- 👀 I’m interested in pretty much everything, however my main interests are Python and Assembly
+- I’m interested in pretty much any form of programming, however my main interests are Python and Assembly Language.
+- As for Hardware I love to tinker with 70's / 80's vintage Motorola stuff......6800/6805/6809. Also Anything raspberry Pi !
